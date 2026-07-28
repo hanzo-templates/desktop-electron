@@ -9,6 +9,8 @@ Linux) and a web build. Fork it, `npm i`, ship.
 - Installers: <https://github.com/hanzo-templates/desktop-electron/releases/latest>
 - Source: <https://github.com/hanzo-templates/desktop-electron>
 
+![desktop-electron](./public/preview.png)
+
 ## Why this exists
 
 A native app cannot be iframed, so the gallery preview is a *real* build of the

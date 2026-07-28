@@ -1,7 +1,7 @@
 {
   "name": "desktop-electron",
   "private": true,
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Electron 43 + Forge + Vite + React baseline \u2014 contextIsolated IPC, native dialogs, app metrics, frameless chrome.",
   "author": "Hanzo AI",
   "license": "MIT",
